@@ -1,5 +1,7 @@
-var contact = React.createClass({
-    render: function() {
+import React, {Component} from 'react';
+
+
+ function Contact() {
       return (
   
         <div className="container">
@@ -28,4 +30,5 @@ var contact = React.createClass({
         </div>
       );
     }
-  });
+
+  export default Contact;
