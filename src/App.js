@@ -15,13 +15,13 @@ function App() {
           <Nav />
               <div>
                 <Switch>
-                     <Route exact path={["/", "/index"]}>
+                     <Route exact path={["/index.html", "/index"]}>
                            <Index/>
                        </Route>
-                       <Route exact path={["/portfolio", "/portfolio"]}>
+                       <Route exact path={["/portfolio.html", "/Portfolio"]}>
                            <Portfolio/>
                         </Route >
-                       <Route exact path={["/contact", "/contact"]}>
+                       <Route exact path={["/contact.html", "/Contact"]}>
                            <Contact/>
                          </Route>
                   </Switch>        

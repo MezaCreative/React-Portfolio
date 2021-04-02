@@ -1,12 +1,14 @@
 import React from 'react';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
- function index() {
+import me from "./assets/tilaAndI4.jpg" 
+
+function index() {
       return (
         <div className="container">
           {/*Box*/}
           <div className="card">
             <div className="row section-background">
-              <img className="tila" alt="Tila and I" src="assets/tilaAndI4.jpg" />
+              <img src={me} className="tila" alt="Tila and I"  />
               <div className="content-wrapper">
                 <p className="col over-text">
                   Hey! I'm Esteban. <br />
