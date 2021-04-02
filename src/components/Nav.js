@@ -9,7 +9,8 @@ function Nav() {
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark static-top">
       {/*Navbar brand*/}
       <a className="navbar-brand" href="index.html">
-        <img src="assets/Meza-logo.png" alt="Meza Creative" />
+        <logo/>
+        <img src={logo} alt="Meza Creative" />
       </a>
       {/*Collapse button*/}
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
