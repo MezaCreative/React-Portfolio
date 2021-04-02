@@ -8,7 +8,7 @@ function Nav() {
         
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark static-top">
       {/*Navbar brand*/}
-      <a className="navbar-brand" href="index.html">
+      <a className="navbar-brand" href="index">
         <logo/>
         <img src={logo} alt="Meza Creative" />
       </a>
