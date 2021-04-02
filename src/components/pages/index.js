@@ -1,7 +1,7 @@
 import React from 'react';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import me from "./assets/tilaAndI4.jpg" 
-
+import '../style.css';
 function index() {
       return (
         <div className="container">
