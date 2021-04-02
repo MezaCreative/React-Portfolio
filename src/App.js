@@ -10,28 +10,25 @@ import Contact from "./components/pages/Contact";
 
 function App() {
   return (
-    <div className="App">
-      <Nav />
-      <div>
-        <Switch>
-          <Route exact path={["/", "/index"]}>
-              <Index/>
-          </Route>
-          <Route exact path={["/portfolio", "/portfolio"]}>
-                <Portfolio/>
-          </Route >
-
-          <Route exact path={["/contact", "/contact"]}>
-                <Contact/>
-          </Route>
-
-        </Switch>
-            
-      </div>
-
-
-    <Footer/>
-    </div>
+    <Router>
+       <div className="App">
+          <Nav />
+              <div>
+                <Switch>
+                     <Route exact path={["/", "/index"]}>
+                           <Index/>
+                       </Route>
+                       <Route exact path={["/portfolio", "/portfolio"]}>
+                           <Portfolio/>
+                        </Route >
+                       <Route exact path={["/contact", "/contact"]}>
+                           <Contact/>
+                         </Route>
+                  </Switch>        
+                </div>
+           <Footer/>
+         </div>
+      </Router>
   );
 }
 
