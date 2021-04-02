@@ -12,9 +12,9 @@ const Footer = () => (
               <h4>Links</h4>
               <ul className="list-unstyled">
                 <li><a href="#" /></li>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="portfolio.html">Portfolio</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="index">Home</a></li>
+                <li><a href="portfolio">Portfolio</a></li>
+                <li><a href="contact">Contact</a></li>
               </ul>
             </div>
           </div>

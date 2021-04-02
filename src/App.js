@@ -19,13 +19,13 @@ function App() {
                      <Route exact path={["/react-portfolio", "/index"]}>
                            <Index/>
                        </Route>
-                       <Route exact path={["/index.html", "/index"]}>
+                       <Route exact path={["/index", "/index"]}>
                            <Index/>
                        </Route>
-                       <Route exact path={["/react-portfolio/portfolio.html", "/Portfolio"]}>
+                       <Route exact path={["portfolio", "/Portfolio"]}>
                            <Portfolio/>
                         </Route >
-                       <Route exact path={["/react-portfolio/contact.html", "/Contact"]}>
+                       <Route exact path={["/contact", "/Contact"]}>
                            <Contact/>
                          </Route>
                   </Switch>        

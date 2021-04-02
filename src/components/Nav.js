@@ -25,8 +25,8 @@ function Nav() {
               Home <span className="sr-only"> (current) </span>
             </a>
             <div className="dropdown-menu" aria-labellyby="navbarDropdown">
-              <a className="dropdown-item" href="portfolio.html">Portfolio</a>
-              <a className="dropdown-item" href="contact.html">Contact</a>
+              <a className="dropdown-item" href="portfolio">Portfolio</a>
+              <a className="dropdown-item" href="contact">Contact</a>
             </div>
           </li>
         </ul>
