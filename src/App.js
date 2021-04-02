@@ -17,9 +17,7 @@ function App() {
               <div>
                 <Switch>
                       
-                     <Route exact path={["/react-portfolio", "/index"]}>
-                           <Index/>
-                       </Route>
+
                        <Route exact path={["/index", "/index"]}>
                            <Index/>
                        </Route>
