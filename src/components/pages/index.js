@@ -1,7 +1,7 @@
-var index = React.createClass({
-    render: function() {
+import React from 'react';
+import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+ function index() {
       return (
-  
         <div className="container">
           {/*Box*/}
           <div className="card">
@@ -54,5 +54,6 @@ var index = React.createClass({
           </div>
         </div>
       );
-    }
-  });
+    };
+
+  export default index;

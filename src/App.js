@@ -1,15 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './assets/Meza-logo.png';
 import './App.css';
 import Nav from './components/Nav';
 import Footer from './components/Footer';
-import Cardcontainer from './components/Cardcontainer';
+import Index from './components/pages/index';
+
+
 function App() {
   return (
     <div className="App">
       <Nav />
-      <Cardcontainer/>
-
+      <Index/>
     <Footer/>
     </div>
   );
