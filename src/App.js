@@ -22,10 +22,10 @@ function App() {
                        <Route exact path={["/index.html", "/index"]}>
                            <Index/>
                        </Route>
-                       <Route exact path={["/portfolio.html", "/Portfolio"]}>
+                       <Route exact path={["/react-portfolio/portfolio.html", "/Portfolio"]}>
                            <Portfolio/>
                         </Route >
-                       <Route exact path={["/contact.html", "/Contact"]}>
+                       <Route exact path={["/react-portfolio/contact.html", "/Contact"]}>
                            <Contact/>
                          </Route>
                   </Switch>        
