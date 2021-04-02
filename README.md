@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Home Page](https://github.com/MezaCreative/react-portfolio/blob/main/src/assets/home.png)
 ## Available Scripts
 
 In the project directory, you can run:
