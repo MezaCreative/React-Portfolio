@@ -10,11 +10,11 @@ function index() {
             <div className="row section-background">
               <img src={me} className="tila" alt="Tila and I"  />
               <div className="content-wrapper">
-                <p className="col over-text">
+                <p className="col over-text ">
                   Hey! I'm Esteban. <br />
                   This is Tila. <br />
                 </p>
-                <p className="col under-text">
+                <p className="col under-text ">
                   Welcome to<br />
                   my page.
                 </p>

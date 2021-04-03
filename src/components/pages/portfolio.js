@@ -13,6 +13,7 @@
           {/*Heading*/}
           <div className="col-lg-6 col-sm-12">
             <h1>Portfolio</h1>
+            <a href="https://drive.google.com/file/d/1gkPjZhF_REkdStYOSHZXTvDgegx3wN6U/view?usp=sharing" className="btn btn-primary" download>Resume</a>
           </div>
         </div>
         {/*Photo and text*/}
