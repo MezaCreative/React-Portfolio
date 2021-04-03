@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.9ea5b033.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.e579ff1b.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.e579ff1b.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.61a59244.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.61a59244.js.map",
-    "static/js/2.1858482e.chunk.js": "/react-portfolio/static/js/2.1858482e.chunk.js",
-    "static/js/2.1858482e.chunk.js.map": "/react-portfolio/static/js/2.1858482e.chunk.js.map",
-    "static/js/3.e0caf31e.chunk.js": "/react-portfolio/static/js/3.e0caf31e.chunk.js",
-    "static/js/3.e0caf31e.chunk.js.map": "/react-portfolio/static/js/3.e0caf31e.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.f26cd679.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.f26cd679.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.49c2b3d3.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.49c2b3d3.js.map",
+    "static/js/2.41fb3588.chunk.js": "/react-portfolio/static/js/2.41fb3588.chunk.js",
+    "static/js/2.41fb3588.chunk.js.map": "/react-portfolio/static/js/2.41fb3588.chunk.js.map",
+    "static/js/3.5487a9cb.chunk.js": "/react-portfolio/static/js/3.5487a9cb.chunk.js",
+    "static/js/3.5487a9cb.chunk.js.map": "/react-portfolio/static/js/3.5487a9cb.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
     "static/css/main.9ea5b033.chunk.css.map": "/react-portfolio/static/css/main.9ea5b033.chunk.css.map",
-    "static/js/2.1858482e.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.1858482e.chunk.js.LICENSE.txt",
+    "static/js/2.41fb3588.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.41fb3588.chunk.js.LICENSE.txt",
     "static/media/Meza-logo.ac2a8dc4.png": "/react-portfolio/static/media/Meza-logo.ac2a8dc4.png",
     "static/media/Note taker.103caf4e.png": "/react-portfolio/static/media/Note taker.103caf4e.png",
     "static/media/image.8366b589.png": "/react-portfolio/static/media/image.8366b589.png",
@@ -22,9 +22,9 @@
     "static/media/workout.63f50bd1.png": "/react-portfolio/static/media/workout.63f50bd1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.61a59244.js",
-    "static/js/2.1858482e.chunk.js",
+    "static/js/runtime-main.49c2b3d3.js",
+    "static/js/2.41fb3588.chunk.js",
     "static/css/main.9ea5b033.chunk.css",
-    "static/js/main.e579ff1b.chunk.js"
+    "static/js/main.f26cd679.chunk.js"
   ]
 }
