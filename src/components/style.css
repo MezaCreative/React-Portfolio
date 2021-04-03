@@ -38,6 +38,7 @@ body {
   
   .card{
     overflow:hidden;
+    margin: 10px;
   }
   .tila {
     object-fit: cover;
@@ -68,6 +69,9 @@ body {
   }
   .contact-text{
     color:rgb(238, 238, 238);
+  }
+  .btn-primary {
+    margin:3px;
   }
   .body-text{
     color:rgb(238, 238, 238);

@@ -9,9 +9,9 @@ function Navigation() {
       <Navbar bg="light" expand="lg">
       <Navbar.Brand href="index"> 
         <img src={logo} alt="Meza Creative" /> </Navbar.Brand>
-      <Navbar.Toggle aria-controls="basic-navbar-nav" />
+      <Navbar.Toggle aria-controls="basic-navbar-nav" href="/index" />
       <Navbar.Collapse id="basic-navbar-nav">
-        <Nav className="ml-auto" href="/index">
+        <Nav className="ml-auto" >
           <NavDropdown title="Home" id="basic-nav-dropdown" >
             <NavDropdown.Item href="/Portfolio">Portfolio</NavDropdown.Item>
             <NavDropdown.Item href="/Contact">Contact</NavDropdown.Item>
