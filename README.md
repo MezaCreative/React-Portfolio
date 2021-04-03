@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+[Deployed Link](https://mezacreative.github.io/react-portfolio/)
 ![Home Page](https://github.com/MezaCreative/react-portfolio/blob/main/src/assets/home.png)
 ## Available Scripts
 
